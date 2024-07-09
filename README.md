@@ -10,6 +10,7 @@
 |Douglass High School|US History|2017-2015|
 |Orr High School|US History|2015-2014|
 |Taft High School|Attendance Coordinator|2014-2010|
+|Manley Career Academy|US History|2010-2009|
 
 1st Computer - Custom built intel in 1998 (_built in collaboration with family_)
 
