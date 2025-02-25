@@ -22,7 +22,7 @@ Contact info:
 [x] Gamer
 [x] Esports Advocate
 [x] Girl Dad
-[] Typical teacher
+[ ] Typical teacher
 <!--
 **Derdrom-TJM/Derdrom-TJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
