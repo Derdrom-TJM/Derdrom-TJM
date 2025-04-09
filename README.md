@@ -16,7 +16,7 @@
 
 Contact info:
 - BlueSky: Derdrom
-- Twitter/X: Derdrom_TJM
+- Twitter/X: Derdrom_TJM (mostly inactive)
 - LinkedIn: Todd-McFarlin
 
 [x] Gamer <br>
