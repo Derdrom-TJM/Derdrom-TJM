@@ -19,10 +19,10 @@ Contact info:
 - Twitter/X: Derdrom_TJM
 - LinkedIn: Todd-McFarlin
 
-[x] Gamer
-[x] Esports Advocate
-[x] Girl Dad
-[ ] Typical teacher
+[x] Gamer <br>
+[x] Esports Advocate <br>
+[x] Girl Dad <br>
+[ ] Typical teacher <br>
 <!--
 **Derdrom-TJM/Derdrom-TJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
