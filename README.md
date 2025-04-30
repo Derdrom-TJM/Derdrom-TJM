@@ -12,7 +12,8 @@
 |Taft High School|Attendance Coordinator|2010-2014|
 |Manley Career Academy|US History|2009-2010|
 
-|Coding Languages|Proficiency| 
+|**Coding Languages**|Proficiency|
+|---------|--------|
 |Java|Beginner|
 |Python|Rookie|
 |Swift| Associate and Certified User Certification earned|
