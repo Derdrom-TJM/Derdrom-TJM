@@ -12,6 +12,12 @@
 |Taft High School|Attendance Coordinator|2010-2014|
 |Manley Career Academy|US History|2009-2010|
 
+|Coding Languages|Proficiency| 
+|Java|Beginner|
+|Python|Rookie|
+|Swift| Associate and Certified User Certification earned|
+
+
 1st Computer - Custom built intel in 1998 (_built in collaboration with family_)
 
 Contact info:
