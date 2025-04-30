@@ -12,6 +12,8 @@
 |Taft High School|Attendance Coordinator|2010-2014|
 |Manley Career Academy|US History|2009-2010|
 
+### Development Career
+
 |**Coding Languages**|Proficiency|
 |---------|--------|
 |Java|Beginner|
