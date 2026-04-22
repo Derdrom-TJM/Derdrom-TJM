@@ -22,6 +22,7 @@
 |Swift Instructor|Assist teachers to earn their certifications|
 
 ### Education History
+|Level|School and Major|
 |---------|--------|
 |High School|Lane Tech - Chicago|
 |Undergrad|UIC - Teaching of History|
