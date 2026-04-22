@@ -19,9 +19,22 @@
 |Java|Beginner|
 |Python|Rookie|
 |Swift| Associate and Certified User Certification earned|
+|Swift Instructor| Assists teachers to earn their certifications|
 
+
+### Future Goals
+- Build and release an iOS app to the appstore
+- Learn more about Minecraft EDU
+- Learn about Data Science through UIUC Data Science Discovery
+- Learn about Game Development
+
+### Facts about me
 
 1st Computer - Custom built intel in 1998 (_built in collaboration with family_)
+
+I have raised more than $20,000 for Ann & Robert H. Lurie Children's Hospital of Chicago through [Extra-Life](https://www.extra-life.org)
+
+I occasionally live stream on Twitch (_see link on left) where I play games and hope to live code some projects
 
 Contact info:
 - BlueSky: Derdrom
