@@ -35,7 +35,7 @@
 
 
 ### Future Goals
-- Build and release an iOS app to the appstore
+- Build and release an iOS app to the App Store
 - Learn more about Minecraft EDU
 - Learn about Data Science through UIUC Data Science Discovery
 - Learn about Game Development
@@ -46,7 +46,7 @@
 
 I have raised more than $20,000 for Ann & Robert H. Lurie Children's Hospital of Chicago through [Extra-Life](https://www.extra-life.org)
 
-I occasionally live stream on Twitch (_see link on left) where I play games and hope to live code some projects
+I occasionally live stream on Twitch (see link on left) where I play games and hope to live code some projects
 
 Contact info:
 - BlueSky: Derdrom
