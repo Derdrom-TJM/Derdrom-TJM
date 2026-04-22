@@ -32,6 +32,10 @@
 
 1st Computer - Custom built intel in 1998 (_built in collaboration with family_)
 
+I have raised more than $20,000 for Ann & Robert H. Lurie Children's Hospital of Chicago through [Extra-Life](https://www.extra-life.org)
+
+I occasionally live stream on Twitch (_see link on left) where I play games and hope to live code some projects
+
 Contact info:
 - BlueSky: Derdrom
 - Twitter/X: Derdrom_TJM (mostly inactive)
