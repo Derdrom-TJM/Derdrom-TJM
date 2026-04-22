@@ -19,7 +19,16 @@
 |Java|Beginner|
 |Python|Rookie|
 |Swift| Associate and Certified User Certification earned|
+|Swift Instructor| Assists teachers to earn their certifications|
 
+
+### Future Goals
+- Build and release an iOS app to the appstore
+- Learn more about Minecraft EDU
+- Learn about Data Science through UIUC Data Science Discovery
+- Learn about Game Development
+
+### Facts about me
 
 1st Computer - Custom built intel in 1998 (_built in collaboration with family_)
 
