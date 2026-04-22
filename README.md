@@ -29,9 +29,7 @@
 |CS Endorsement|UIUC - CSTed Program|
 |Masters|UIC - Ed Psych Youth Development|
 
-<img src="https://pbs.twimg.com/profile_images/1998496323692060672/_brF8WWb_400x400.jpg" height="200">
-<img src="UIC-Logo.PNG" height="200">
-<img src="UIUC-Logo.png" height="200">
+<img src="https://pbs.twimg.com/profile_images/1998496323692060672/_brF8WWb_400x400.jpg" height="200"><img src="UIC-Logo.PNG" height="200"><img src="UIUC-Logo.png" height="200">
 
 
 ### Future Goals
